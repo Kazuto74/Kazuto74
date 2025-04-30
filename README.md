@@ -23,4 +23,4 @@
 ### 💬 Let's Connect
 
 - 📫 Email: lishsh083@gmail.com
-- 🌐 Blog: [Kazuto74.github.io](https://Kazuto74.github.io) *(or your personal site)*
+- 🌐 Blog: [Kazuto74.github.io](https://Kazuto74.github.io)

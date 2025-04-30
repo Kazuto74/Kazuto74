@@ -1,4 +1,4 @@
-<h1 align="center"## 👋 Hi there, I'm Kazuto74!
+## 👋 Hi there, I'm Kazuto74!
 
 ### 🚀 About Me
 

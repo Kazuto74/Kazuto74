@@ -18,7 +18,7 @@
 - 🗡️ Handle: 黒の剣士 Kazuto74 (inspired by Kirito, Aincrad Floor 74)
 - 💡 Motto: *"Code like a swordsman. Think like a hacker."*
 - 📺 Favorites: **SAO**, **Arthur Conan Doyle**
-- 🎮 Side quests: `Linux`, `AI`, 'Detective Mystery'
+- 🎮 Side quests: `Linux`, `AI`, `Detective Mystery`
 
 ---
 

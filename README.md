@@ -4,5 +4,5 @@
 
 - 🎓 A student passionate about **AI**, **Computer Vision**, and **Open Source**.
 - 🧭 Currently working on: `medical image segmentation`, `multimodal`, `diffusion models`
-- 🌱 Learning: `PyTorch`, `Transformers`, `Diffusion Models`
-- 🧠 Research Interests: **AI4Science**, **Vision-Language Models**, **Embodied Intelligence**
+- 🌱 Learning: `PyTorch`, `Transformers`, `Multimodal Alignment`
+- 🧠 Research Interests: **Vision-Language Models**, **Embodied Intelligence**

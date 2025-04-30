@@ -12,3 +12,10 @@
 > ⛓️ `black_swordsman.exe` is now running...
 
 ### 🧬 2D Hacker Vibes
+
+- 🗡️ Handle: 黒の剣士 Kazuto74 (inspired by Kirito, Aincrad Floor 74)
+- 💡 Motto: *"Code like a swordsman. Think like a hacker."*
+- 📺 Favorites: **SAO**, **Cyberpunk Edgerunners**, **Nier Automata**, **Ghost in the Shell**
+- 🎮 Side quests: `Neovim`, `Linux`, `AI + Anime`, `VRMMO Dev`
+
+---

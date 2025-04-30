@@ -1,3 +1,4 @@
+<h1 align="center">Kazuto74 / 黒の剣士</h1>
 ## 👋 Hi there, I'm Kazuto74!
 
 ### 🚀 About Me
